@@ -15,6 +15,7 @@ public class Demo01Cook {
             }
         });
 
+        //Lambda表达式写法
         invokeCook(() -> System.out.println("吃饭了2！"));
     }
 
